@@ -1,5 +1,16 @@
 ### Olá 👋
 
+<div align="center">
+  <a href="https://github.com/brunaveras">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunaveras&count_private=true&include_all_commits=true&show_icons=true&theme=maroongold&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaveras&theme=maroongold&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+
+
+
+
 <!--
 **brunaveras/brunaveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
